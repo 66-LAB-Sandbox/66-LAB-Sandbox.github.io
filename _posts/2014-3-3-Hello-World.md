@@ -8,6 +8,15 @@ toc: true
 
 joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe
 
+<div>
+  <div id="table-of-contents">
+    {% toc %}
+  </div>
+  <div id="markdown-content">
+    {{ content }}
+  </div>
+</div>
+
 ## Публикация 1
 ### Публикация 2
 ### Публикация 3
