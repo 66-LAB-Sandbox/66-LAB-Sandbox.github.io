@@ -8,10 +8,7 @@ toc: true
 
 joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe
 
-  <div id="markdown-content">
-    {{ content }}
-  </div>
-</div>
+{% toc %}
 
 ## Публикация 1
 ### Публикация 2
