@@ -77,16 +77,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-toc
   
-  # TOC Settings
-toc:
- min_level: 1
- max_level: 3
- list_class: toc
- list_class: toc__list
- sublist_class: toc__sublist
-
 # Exclude these files from your production _site
 exclude:
   - Gemfile
