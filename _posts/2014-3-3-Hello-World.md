@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Самый полный список работ
-toc: true
 ---
 
 Нижк перечислено все множество работ, опубликованных в тех или иных изданиях. Можно считать данный документ офицальной библиографией и соостветственно на него и ссылаться в дальнешем.
 
 joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe joe doe
 
-{% toc %}
+* TOC
+{:toc}
 
 ## Публикация 1
 ### Публикация 2
